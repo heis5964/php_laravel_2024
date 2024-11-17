@@ -1,3 +1,4 @@
+ขั้นตอนการนำโค๊ดขึ้นGithub
 1.เปิดเว็บไซด์ Github 1)https://github.com/
   1.1)Login เข้าระบบ
 2.สร้าง Repository
