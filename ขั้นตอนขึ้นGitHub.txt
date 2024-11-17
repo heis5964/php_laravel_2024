@@ -18,12 +18,16 @@
   4.6)พิมพ์คำสั่ง git remote add origin https://github.com/heis5964/php_laravel_2024.git (เป็นการระบุที่จุดหมายที่อยู่ของcodeที่เรานำขึ้นบนgithub เป็นการเชื่อมโยง Repository ที่เราสร้างขึ้นมา )
   4.7)พิมพ์คำสั่ง git push --set-upstream origin master 
 5.การนำ code ขึ้น github ครั้งต่อไป
+  5.1)git status
+  5.2)git add .
+  5.3)git commit -m "end php basic"
+  5.4)git push
+=================================
   5.1)คลิกที่ไอคอล Source Control(Ctrl+Shift+G G)
   5.2)พิมพ์รายละเอียดที่เราทำอะไรหรือปรับปรุงแก้ไขโค๊ดในวันนี้
-  5.3)คลิกปุ่มเครื่องถูก
-  5.4)คลิกปุ่ม commit
-  5.5)คลิกปุ่ม Sync Changes
-  5.6)คลิกปุ่ม Ok ที่หน้าต่างแสดงเพื่อยืนยันการนำขึ้นgithub
+  5.3)คลิกปุ่ม commit
+  5.4)คลิกปุ่ม Sync Changes
+  5.5)คลิกปุ่ม Ok ที่หน้าต่างแสดงเพื่อยืนยันการนำขึ้นgithub
   
 
 ================================
